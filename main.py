@@ -1,5 +1,5 @@
 from tkinter import *
-import pyttsx3 as
+import pyttsx3 as pt
 import webbrowser as wb
 import os
 
